@@ -1,0 +1,80 @@
+name: "💥 Submit a Production War Story"
+description: "Share a real production incident post-mortem (sanitized)"
+title: "[War Story] <catchy disaster title>"
+labels: ["war-story", "contribution"]
+body:
+  - type: input
+    id: stack
+    attributes:
+      label: Stack
+      description: The technology stack involved in the incident
+      placeholder: "Java 21 | Spring Boot 3.2 | PostgreSQL 15 | HikariCP"
+    validations:
+      required: true
+
+  - type: input
+    id: duration
+    attributes:
+      label: Outage Duration & Impact
+      description: How long did it last, and who/what was affected?
+      placeholder: "47 minutes — 100% of checkout requests failing"
+    validations:
+      required: true
+
+  - type: textarea
+    id: trigger
+    attributes:
+      label: 💥 The Trigger
+      description: The flawed code or configuration that caused the incident. Include language tags on code fences.
+      placeholder: |
+        ```java
+        // the flawed code/config here
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: hunt
+    attributes:
+      label: 🕵️ The Hunt
+      description: Step-by-step debugging narrative. Include the ACTUAL commands you ran (jstack, SQL queries, etc.) and what each one revealed.
+      placeholder: |
+        **Step 1: What you checked first**
+        ```bash
+        jstack <pid> > threads.txt
+        ```
+        What the output showed...
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: 🔧 The Cure
+      description: The fixed code or configuration. Include language tags on code fences.
+      placeholder: |
+        ```java
+        // the fixed code/config here
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: golden-rule
+    attributes:
+      label: 📜 The Golden Rule
+      description: One single, actionable sentence of wisdom. No hedging.
+      placeholder: "Never ..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: template-check
+    attributes:
+      label: Template Confirmation
+      description: Submissions must follow the official template structure.
+      options:
+        - label: "I used the structure from `/templates/war-story-template.md` and filled in every section."
+          required: true
+        - label: "I have sanitized all proprietary details (company names, hosts, table names, internal endpoints)."
+          required: true

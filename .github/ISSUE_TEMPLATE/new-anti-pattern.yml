@@ -1,0 +1,82 @@
+name: "🚫 Submit a New Anti-Pattern"
+description: "Propose a new anti-pattern entry for the collection"
+title: "[Anti-Pattern] <name of the anti-pattern>"
+labels: ["anti-pattern", "contribution"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which area of backend engineering does this anti-pattern belong to?
+      options:
+        - Java
+        - Database
+        - Architecture
+        - API
+        - DevOps
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: How much damage can this pattern cause if it ships?
+      options:
+        - "🔴 Critical"
+        - "🟠 High"
+        - "🟡 Medium"
+        - "🔵 Low"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Anti-Pattern Title
+      description: A short, memorable name (e.g., "The Silent Catch-All")
+      placeholder: "The ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: flawed-code
+    attributes:
+      label: 🧨 The Flawed Code
+      description: Paste the anti-pattern as it appears in the wild. Include language tags on code fences.
+      placeholder: |
+        ```java
+        // flawed code here
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: refactored-code
+    attributes:
+      label: ✅ The Refactored Code
+      description: Paste the corrected version. It must be correct and complete enough to illustrate the fix.
+      placeholder: |
+        ```java
+        // fixed code here
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    id: core-principle
+    attributes:
+      label: 🧠 The Core Principle
+      description: Name and explain the underlying CS/design principle this anti-pattern violates (e.g., Fail-Fast, Single Responsibility).
+      placeholder: "This violates the principle of..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: template-check
+    attributes:
+      label: Template Confirmation
+      description: Submissions must follow the official template structure.
+      options:
+        - label: "I used the structure from `/templates/anti-pattern-template.md` and filled in every section."
+          required: true
