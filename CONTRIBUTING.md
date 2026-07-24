@@ -18,7 +18,7 @@ All submissions **must** follow the templates in [`/templates`](./templates) —
 Copy the template, fill in every section, and place the file in the correct category folder using the naming convention:
 
 ```
-YYYY-MM-DD-a-short-kebab-case-title.md
+YYYY-MM-DD-a-short-kebab-case-title.md.
 ```
 
 ### 3. Code Must Be Real
