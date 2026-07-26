@@ -44,16 +44,16 @@ Expect feedback within a few days. Don't take revision requests personally — t
 
 ## 🏆 Attribution
 
-Every merged contribution earns you a spot in the **Contributors** section of the [README](./README.md). Your name, your story, your legacy.
+Every merged contribution earns you a spot in the **Contributors** section of the [README](./README.md). Your name, your story, your legacy..
 
 ---
 
 ## 📜 Code of Conduct
 
-- **Be professional.** Stories are about systems and code, never about blaming people. Anonymize individuals and companies where appropriate.
-- **Be respectful.** Disagree with ideas, not with humans. No harassment, no gatekeeping, no "well actually" pile-ons.
-- **Be honest.** If a detail is fuzzy, say so. Fabricated war stories destroy the repo's credibility.
-- **Assume good intent.** Everyone here was once the person who wrote the flawed code — including the maintainers.
+- **Be professional.** Stories are about systems and code, never about blaming people. Anonymize individuals and companies where appropriate..
+- **Be respectful.** Disagree with ideas, not with humans. No harassment, no gatekeeping, no "well actually" pile-ons...
+- **Be honest.** If a detail is fuzzy, say so. Fabricated war stories destroy the repo's credibility..
+- **Assume good intent.** Everyone here was once the person who wrote the flawed code — including the maintainers..
 
 Violations may result in PRs being closed and, for repeated offenses, a ban from contributing.
 
