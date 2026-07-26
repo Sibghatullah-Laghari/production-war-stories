@@ -34,7 +34,7 @@ Want to shape the roadmap? Open an issue with a story pitch.
 
 ---
 
-## 🏛️ The Three Pillars
+## 🏛️ The Three Pillars.
 
 ### 🚫 Anti-Patterns — *Weekly*
 Code that looks harmless, compiles fine, passes review… and then quietly ruins your system six months later. Each entry dissects one anti-pattern: the flawed code, the theoretical fallout, the refactor, and how to spot it in a PR.
