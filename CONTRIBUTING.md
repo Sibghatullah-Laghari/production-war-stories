@@ -10,7 +10,7 @@ First off — thanks for sharing your scars. Every story here saves someone else
 Each pull request must contain **exactly one** anti-pattern, war story, or ninja tip. No bundling. Small, focused PRs get reviewed fast; kitchen-sink PRs get closed.
 
 ### 2. Use the Templates
-All submissions **must** follow the templates in [`/templates`](./templates) — no exceptions:
+All submissions **must** follow the templates in [`/templates`](./templates) — no exceptions:-
 
 - **Anti-Pattern** → [`templates/anti-pattern-template.md`](./templates/anti-pattern-template.md)
 - **War Story** → [`templates/war-story-template.md`](./templates/war-story-template.md)
