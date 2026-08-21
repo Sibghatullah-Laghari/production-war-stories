@@ -223,3 +223,4 @@ Response payload for a power user went from **~4 MB (attempted)** to **~300 byte
 ---
 
 *Names and details sanitized to protect the guilty. The pain was real.*
+....
