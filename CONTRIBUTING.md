@@ -59,5 +59,5 @@ Violations may result in PRs being closed and, for repeated offenses, a ban from
 
 ---
 
-*Now go forth. May your pools be deep and your stack traces short..* 🥷
+*Now go forth. May your pools be deep and your stack traces short.* 🥷
 
