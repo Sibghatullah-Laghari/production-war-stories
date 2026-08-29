@@ -57,7 +57,3 @@ Every merged contribution earns you a spot in the **Contributors** section of th
 
 Violations may result in PRs being closed and, for repeated offenses, a ban from contributing.
 
----
-
-*Now go forth. May your pools be deep and your stack traces short...* 🥷
-
