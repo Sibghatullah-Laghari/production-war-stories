@@ -90,5 +90,5 @@ Prefer to skip the pitch and write directly? That's fine too — just follow the
 
 ## 🌟 Contributors:-
 
-Every contributor is listed here. Ship a story, get your name on the wall.
+
 
