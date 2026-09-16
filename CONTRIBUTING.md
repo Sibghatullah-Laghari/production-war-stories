@@ -55,3 +55,9 @@ Every merged contribution earns you a spot in the **Contributors** section of th
 - **Be honest.** If a detail is fuzzy, say so. Fabricated war stories destroy the repo's credibility..
 
 
+///////////
+...............
+........
+/
+///////.
+.
