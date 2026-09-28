@@ -1,6 +1,6 @@
 # Contributing to Production War Stories
 
-First off — thanks for sharing your scars. Every story here saves someone else a 3 AM page.
+First off — thanks for sharing your scars. Every story here saves someone else a 3 AM page....
 
 ---
 
