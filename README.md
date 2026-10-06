@@ -84,7 +84,7 @@ The fastest way to contribute is through our structured issue templates — pitc
 2. Fill in every field — the issue form mirrors the file templates, so an approved pitch is 90% of the final entry.
 3. Once your pitch is approved, copy the matching template from [`/templates`](./templates), write the full entry, and open a PR. **One tip per PR.**
 
-Prefer to skip the pitch and write directly? That's fine too — just follow the templates strictly. Full details in [CONTRIBUTING.md](./CONTRIBUTING.md)....
+Prefer to skip the pitch and write directly? That's fine too — just follow the templates strictly. Full details in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
 
