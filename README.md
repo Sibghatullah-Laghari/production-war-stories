@@ -87,4 +87,4 @@ The fastest way to contribute is through our structured issue templates — pitc
 Prefer to skip the pitch and write directly? That's fine too — just follow the templates strictly. Full details in [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ---
-
+,
