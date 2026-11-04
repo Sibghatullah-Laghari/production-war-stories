@@ -42,7 +42,7 @@ Expect feedback within a few days. Don't take revision requests personally — t
 
 ---
 
-## 🏆 Attribution
+## 🏆 Attribution.
 
 Every merged contribution earns you a spot in the **Contributors** section of the [README](./README.md). Your name, your story, your legacy..
 
