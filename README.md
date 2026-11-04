@@ -78,7 +78,7 @@ production-war-stories/
 
 The fastest way to contribute is through our structured issue templates — pitch your story, and we'll help you shape it into a full entry:
 
-1. Go to **Issues → New Issue** and pick a template:
+1. Go to **Issues → New Issue** and pick a template:-
    - 🚫 **[Submit a New Anti-Pattern](../../issues/new?template=new-anti-pattern.yml)**
    - 💥 **[Submit a Production War Story](../../issues/new?template=new-war-story.yml)**
 2. Fill in every field — the issue form mirrors the file templates, so an approved pitch is 90% of the final entry.
