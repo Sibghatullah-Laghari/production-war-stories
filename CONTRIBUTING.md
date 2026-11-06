@@ -11,7 +11,7 @@ Each pull request must contain **exactly one** anti-pattern, war story, or ninja
 
 ### 2. Use the Templates
 All submissions **must** follow the templates in [`/templates`](./templates) — no exceptions:-
-
+.
 - **Anti-Pattern** → [`templates/anti-pattern-template.md`](./templates/anti-pattern-template.md)
 - **War Story** → [`templates/war-story-template.md`](./templates/war-story-template.md)
 
