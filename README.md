@@ -15,7 +15,7 @@ A curated collection of production war stories, anti-patterns, and ninja tips �
 
 Different readers, different doors. Pick yours:
 
-- 💥 **Start with [War Stories](./war-stories)** if you want to see how production incidents unfold — the calm, the trigger, the hunt with real commands (`jstack`, `pg_stat_activity`, GC logs), and the fix.
+- 💥 **Start with [War Stories](./war-stories)** if you want to see how production incidents unfold — the calm, the trigger, the hunt with real commands (`jstack`, `pg_stat_activity`, GC logs), and the fix..
 - 🚫 **Study [Anti-Patterns](./anti-patterns)** if you want to fortify your code against common mistakes — flawed code, theoretical fallout, refactored solution, and how to spot each one in a PR.
 - 🥷 **Check [Ninja Tips](./ninja-tips)** for quick, actionable daily coding hacks — small, sharp techniques you can apply in your very next commit.
 
