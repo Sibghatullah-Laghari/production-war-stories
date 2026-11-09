@@ -1,6 +1,6 @@
 # Contributing to Production War Stories
 
-First off — thanks for sharing your scars. Every story here saves someone else a 3 AM page....
+First off — thanks for sharing your scars. Every story here saves someone else a 3 AM page.
 
 ---
 
@@ -44,13 +44,13 @@ Expect feedback within a few days. Don't take revision requests personally — t
 
 ## 🏆 Attribution.
 
-Every merged contribution earns you a spot in the **Contributors** section of the [README](./README.md). Your name, your story, your legacy..
+Every merged contribution earns you a spot in the **Contributors** section of the [README](./README.md). Your name, your story, your legacy.
 
 ---
 
 ## 📜 Code of Conduct
 
-- **Be professional.** Stories are about systems and code, never about blaming people. Anonymize individuals and companies where appropriate..
-- **Be respectful.** Disagree with ideas, not with humans. No harassment, no gatekeeping, no "well actually" pile-ons...
-- **Be honest.** If a detail is fuzzy, say so. Fabricated war stories destroy the repo's credibility..
+- **Be professional.** Stories are about systems and code, never about blaming people. Anonymize individuals and companies where appropriate.
+- **Be respectful.** Disagree with ideas, not with humans. No harassment, no gatekeeping, no "well actually" pile-ons.
+- **Be honest.** If a detail is fuzzy, say so. Fabricated war stories destroy the repo's credibility.
 
