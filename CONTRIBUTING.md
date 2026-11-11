@@ -24,7 +24,7 @@ YYYY-MM-DD-a-short-kebab-case-title.md.
 ### 3. Code Must Be Real
 - All code blocks must specify a language (````java`, ````sql`, ````bash`, etc.).
 - Flawed code should compile (or be plausibly real config). Fixed code must be correct.
-- Sanitize anything proprietary — change table names, endpoints, and internal hostnames.
+- Sanitize anything proprietary — change table names, endpoints, and internal hostnames..
 
 ---
 
