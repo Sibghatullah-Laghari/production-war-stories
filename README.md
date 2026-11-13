@@ -74,7 +74,7 @@ production-war-stories/
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing:-
 
 The fastest way to contribute is through our structured issue templates — pitch your story, and we'll help you shape it into a full entry:
 
